@@ -1,0 +1,18 @@
+{
+  "name": "gmail-vacation-autoresponder",
+  "version": "1.0.0",
+  "description": "This is a Node.js script that automates the process of setting up a vacation autoresponder for Gmail using the Gmail API from Google Cloud Platform. The script periodically checks for new incoming messages and sends an automated reply with a predefined vacation message. It also applies a label to the replied messages.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/local-auth": "^2.1.1",
+    "fs": "^0.0.1-security",
+    "googleapis": "^118.0.0",
+    "path": "^0.12.7"
+  }
+}

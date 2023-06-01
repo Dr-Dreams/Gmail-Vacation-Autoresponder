@@ -1,0 +1,7 @@
+{
+    "metadata": {
+      "recipient_email": "your_email@example.com",
+      "vacation_message": "I'm currently on vacation and will not be able to respond...",
+      "label_name": "Vacation Autoresponse"
+    }
+  }
